@@ -20,6 +20,7 @@ Please tell me your favorite place.
 Anywhere is OK if you love.
 
 # List of Hobby
+- [Totsukawa](https://www.vill.totsukawa.lg.jp) in the South of Nara.
 - Shiretoko, Hokkaido
 - Regensburg, Germany
 - Italy firenze
