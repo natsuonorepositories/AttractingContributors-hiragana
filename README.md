@@ -28,6 +28,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - ぺ
 -　　ま
 - ゑ
+- ゅ
 - ろ
 - す
 - ゐ
